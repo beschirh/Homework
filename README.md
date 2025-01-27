@@ -22,4 +22,4 @@
 > - I could list Ex. 2
 > - I could list Ex. 3
 
-I am developing **[amal](amal.education)**
+I am developing **[amal](https://www.amal.education)**
